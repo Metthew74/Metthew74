@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Metthew74
+- 👀 I’m interested in Artificial Intelligence, Neural Networks and Biology overall.
+- 🌱 I’m currently learning C++, Python and LaTeX.
+- 💞️ I’m looking to collaborate on a Python Project on "Software engineering for life sciences".
+- 📫 How to reach me: matthieu.beylard-ozeroff@epfl.ch / mattbeylard@icloud.com
